@@ -7,8 +7,8 @@
   "theme_color": "#007bff",
   "icons": [
     {
-      "src": "https://www.shmwb.in/logo.png",
-      "sizes": "192x192",
+      "src": "https://sadikuliam.github.io/blog/shmdc.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
